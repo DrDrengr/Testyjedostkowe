@@ -1,0 +1,13 @@
+C:\Users\Daniel\Desktop\Kolokwium\Kolokwium\bin\Debug\netcoreapp3.1\Kolokwium.exe
+C:\Users\Daniel\Desktop\Kolokwium\Kolokwium\bin\Debug\netcoreapp3.1\Kolokwium.deps.json
+C:\Users\Daniel\Desktop\Kolokwium\Kolokwium\bin\Debug\netcoreapp3.1\Kolokwium.runtimeconfig.json
+C:\Users\Daniel\Desktop\Kolokwium\Kolokwium\bin\Debug\netcoreapp3.1\Kolokwium.runtimeconfig.dev.json
+C:\Users\Daniel\Desktop\Kolokwium\Kolokwium\bin\Debug\netcoreapp3.1\Kolokwium.dll
+C:\Users\Daniel\Desktop\Kolokwium\Kolokwium\bin\Debug\netcoreapp3.1\Kolokwium.pdb
+C:\Users\Daniel\Desktop\Kolokwium\Kolokwium\obj\Debug\netcoreapp3.1\Kolokwium.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Kolokwium\Kolokwium\obj\Debug\netcoreapp3.1\Kolokwium.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Kolokwium\Kolokwium\obj\Debug\netcoreapp3.1\Kolokwium.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Kolokwium\Kolokwium\obj\Debug\netcoreapp3.1\Kolokwium.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Kolokwium\Kolokwium\obj\Debug\netcoreapp3.1\Kolokwium.dll
+C:\Users\Daniel\Desktop\Kolokwium\Kolokwium\obj\Debug\netcoreapp3.1\Kolokwium.pdb
+C:\Users\Daniel\Desktop\Kolokwium\Kolokwium\obj\Debug\netcoreapp3.1\Kolokwium.genruntimeconfig.cache
